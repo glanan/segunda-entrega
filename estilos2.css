@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(207, 159, 252);
+}
+.flex {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid;
+    text-transform: uppercase;
+}
+
+.nav-item {
+    color: aliceblue;
+}

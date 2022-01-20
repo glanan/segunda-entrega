@@ -1,0 +1,20 @@
+body {
+   /* background-image: url("/img/fondo.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    background-color: gray;
+}
+
+.lista {
+    margin: 2rem
+}
+
+.js {
+    color: aliceblue;
+}
+
+.boton {
+    margin-left: 2rem;
+    margin-top: 2rem;
+
+}

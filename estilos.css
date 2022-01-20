@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(202, 152, 248);
+}
+
+form {
+    border: 3px solid blueviolet;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+.row {
+    margin: 20px;
+    padding: 10px;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: aliceblue;
+    text-transform: uppercase;
+}
+
+#carouselExampleControls {
+    width: 600px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 60vh;
+    border: 2px solid ;
+}
+
+h2 {
+    background-color: blueviolet;
+    padding: 1rem;
+    color: aliceblue;
+    text-align: center;
+}
+
+.nav  {
+    background-color: blueviolet;
+}
